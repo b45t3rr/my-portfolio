@@ -1,0 +1,1 @@
+import{U as c,c as l,az as s,x as n,o as p,r as u,$ as d}from"./bViua8A2.js";const i={base:""},_={__name:"ProseTbody",props:{class:{type:null,required:!1}},setup(e){const o=e,a=c(),t=l(()=>s({extend:s(i),...a.uiPro?.prose?.tbody||{}}));return(r,m)=>(p(),n("tbody",{class:d(t.value({class:o.class}))},[u(r.$slots,"default")],2))}};export{_ as default};

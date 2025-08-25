@@ -1,0 +1,9 @@
+# Redirecciones para Single Page Application
+/*    /index.html   200
+
+# Redirección para páginas 404
+/404  /404.html     404
+
+# Redirecciones específicas (ejemplos)
+# /old-page  /new-page  301
+# /blog/*    /articles/:splat  301

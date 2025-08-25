@@ -1,0 +1,1 @@
+import{U as c,c as n,az as s,x as l,o as p,r as m,$ as u}from"./bViua8A2.js";const i={base:""},_={__name:"ProseEm",props:{class:{type:String,required:!1}},setup(e){const a=e,o=c(),t=n(()=>s({extend:s(i),...o.uiPro?.prose?.em||{}}));return(r,f)=>(p(),l("em",{class:u(t.value({class:a.class}))},[m(r.$slots,"default")],2))}};export{_ as default};

@@ -1,0 +1,1 @@
+import{d as a,x as _,o as r,i as e,w as c,r as l,bq as p,e as d,br as m,bs as u,aM as i}from"./bViua8A2.js";const k=a({__name:"default",setup(f){return(n,x)=>{const o=p,t=u,s=i;return r(),_("div",null,[e(s,{class:"sm:border-x border-default pt-10"},{default:c(()=>[e(o,{links:d(m)},null,8,["links"]),l(n.$slots,"default"),e(t)]),_:3})])}}});export{k as default};
